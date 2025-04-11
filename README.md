@@ -19,7 +19,7 @@ A full-stack task management application with a Django REST framework backend an
 - Django CORS Headers
 
 ### Frontend
-- NextJS 15
+- NextJS
 - TypeScript
 - Axios
 
