@@ -1,4 +1,4 @@
-# Task Management Tool (Django Version)
+# Task Management Tool
 
 A full-stack task management application with a Django REST framework backend and NextJS frontend.
 
